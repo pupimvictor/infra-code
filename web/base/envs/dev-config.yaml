@@ -1,9 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: myconf
-  labels:
-    app: myapplication
-    env: $env
-data:
-  ns-oracle: aosidhasoidhaoiusdas
